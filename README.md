@@ -9,9 +9,11 @@ How to use code HTML in Laravel like on below: <br/><br/>
 </code>
 
 
-You can do it in laravel 5.5 too. Step 1: Install from Command: composer require "laravelcollective/html":"^5.5"
+You can do it in laravel 5.5 in above.
+<br/>
+<strong>Step 1</strong>: Install from Command: composer require "laravelcollective/html":"^5.5"
 
-Step 2: After install you have to add providers and aliases in config/app.php file, so let' follow bellow file how to add.
+<strong>Step 2</strong>: After install you have to add providers and aliases in config/app.php file, so let' follow bellow file how to add.
  
 <code>
 <?php
@@ -39,8 +41,8 @@ Step 2: After install you have to add providers and aliases in config/app.php fi
   ],
 </code>
 <br/><br/>
-Step 3: After added above providers, you have to check on your project.
+<strong>Step 3</strong>: After added above providers, you have to check on your project.
 
-Step 4: Done.
+<strong>Step 4</strong>: Done.
 
 Thanks.
