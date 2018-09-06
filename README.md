@@ -1,6 +1,6 @@
 # Laravel-Collective-HTML
 
-How to use code HTML in Laravel like on below: 
+How to use code HTML in Laravel like on below: <br/><br/>
 <code>
 {!! Form::open(['route' => 'posts.store']) !!}
 {!! Form::label('title', 'Title:') !!}
@@ -38,6 +38,7 @@ Step 2: After install you have to add providers and aliases in config/app.php fi
 
   ],
 </code>
+<br/><br/>
 Step 3: After added above providers, you have to check on your project.
 
 Step 4: Done.
